@@ -36,12 +36,6 @@ Explorar correlaciones entre subíndices (ej. NO₂ vs. PM2.5).
 
 Construir visualizaciones avanzadas y resúmenes ejecutivos (tablas y gráficos).
 
-🗂️ Estructura del repositorio
-├─ Visualización Avanzada - Global Air Pollution (1) (1).ipynb  # notebook principal
-├─ data/
-│  └─ global_air_pollution_data.csv                              # datos
-├─ figures/                                                      # export de gráficos (opcional)
-└─ README.md
 
 🧭 Flujo de trabajo en el notebook
 
